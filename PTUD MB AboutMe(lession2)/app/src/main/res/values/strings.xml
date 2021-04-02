@@ -1,0 +1,48 @@
+
+
+<resources>
+    <string name="app_name">About Me</string>
+    <!-- Break paragraphs without extra spacing, by putting \n at the beginning of next line.-->
+    <string name="bio">
+        BÀI THƠ VỀ TIỂU ĐỘI XE KHÔNG KÍNH\n
+       \n Không có kính không phải vì xe không có kính
+\nBom giật, bom rung kính vỡ đi rồi
+\nUng dung buồng lái ta ngồi,
+\nNhìn đất, nhìn trời, nhìn thẳng.
+\n
+\nNhìn thấy gió vào xoa mắt đắng
+\nNhìn thấy con đường chạy thẳng vào tim
+\nThấy sao trời và đột ngột cánh chim
+\nNhư sa, như ùa vào buồng lái
+\n
+\nKhông có kính, ừ thì có bụi,
+\nBụi phun tóc trắng như người già
+\nChưa cần rửa, phì phèo châm điếu thuốc
+\nNhìn nhau mặt lấm cười ha ha.
+\n
+\nKhông có kính, ừ thì ướt áo
+\nMưa tuôn, mưa xối như ngoài trời
+\nChưa cần thay, lái trăm cây số nữa
+\nMưa ngừng, gió lùa khô mau thôi.
+\n
+\nNhững chiếc xe từ trong bom rơi
+\nÐã về đây họp thành tiểu đội
+\nGặp bè bạn suốt dọc đường đi tới
+\nBắt tay qua cửa kính vỡ rồi.
+\n
+\nBếp Hoàng Cầm ta dựng giữa trời
+\nChung bát đũa nghĩa là gia đình đấy
+\nVõng mắc chông chênh đường xe chạy
+\nLại đi, lại đi trời xanh thêm.
+\n
+\nKhông có kính, rồi xe không có đèn,
+\nKhông có mui xe, thùng xe có xước,
+\nXe vẫn chạy vì miền Nam phía trước:
+\nChỉ cần trong xe có một trái tim.
+\n
+
+1969\n\n</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+    <string name="yellow_star">Yellow star</string>
+</resources>
